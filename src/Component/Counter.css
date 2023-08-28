@@ -1,0 +1,18 @@
+.C
+{
+    text-align: center;
+    margin-top: 15%;
+}
+#L
+{
+    font-size:larger;
+    font-weight:bolder;
+}
+#I
+{
+    background-color: green;
+}
+#D
+{
+    background-color: red;
+}
